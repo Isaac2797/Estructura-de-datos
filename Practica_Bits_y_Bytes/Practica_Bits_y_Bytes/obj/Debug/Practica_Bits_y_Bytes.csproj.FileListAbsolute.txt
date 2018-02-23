@@ -1,0 +1,10 @@
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.csprojResolveAssemblyReference.cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.Form1.resources
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.Properties.Resources.resources
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.csproj.GenerateResource.Cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\bin\Debug\Practica_Bits_y_Bytes.exe.config
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\bin\Debug\Practica_Bits_y_Bytes.exe
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\bin\Debug\Practica_Bits_y_Bytes.pdb
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.exe
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Practica_Bits_y_Bytes\Practica_Bits_y_Bytes\obj\Debug\Practica_Bits_y_Bytes.pdb
