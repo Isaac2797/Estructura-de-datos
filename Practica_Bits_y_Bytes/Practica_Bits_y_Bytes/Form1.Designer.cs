@@ -199,7 +199,6 @@
             this.lblLevel.Name = "lblLevel";
             this.lblLevel.Size = new System.Drawing.Size(110, 13);
             this.lblLevel.TabIndex = 20;
-
             // 
             // Form1
             // 

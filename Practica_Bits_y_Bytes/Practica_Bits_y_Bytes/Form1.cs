@@ -19,43 +19,43 @@ namespace Practica_Bits_y_Bytes
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num = Convert.ToInt32(txtNumber.Text);
+            int number = Convert.ToInt32(txtNumber.Text);
 
-            selectingBits(num);
-            selectingDate(num);
+            selectingBits(number);
+            selectingDate(number);
 
         }
 
-        int selectingBits(int num)
+        int selectingBits(int number)
         {
-            num >>= 1;
-            int direction = num & 7; //Comparar valor con 00000111
-            num >>= 3;
+            number >>= 1;
+            int direction = number & 7; //Comparar valor con 00000111
+            number >>= 3;
 
-            int level = num & 3; //Comparar valor con 00000011
-            num >>= 2;
+            int level = number & 3; //Comparar valor con 00000011
+            number >>= 2;
 
-            int Sensor2 = num & 1; //Comparar valor con 00000001
-            num >>= 1;
+            int Sensor2 = number & 1; //Comparar valor con 00000001
+            number >>= 1;
 
-            int Sensor1 = num & 1; //Comparar valor con 00000001
+            int Sensor1 = number & 1; //Comparar valor con 00000001
 
             return showInfo(direction, level, Sensor2, Sensor1);
         }
 
-        int selectingDate(int num)
+        int selectingDate(int number)
         {
-            num >>= 8;
+            number >>= 8;
 
-            int day = num & 31; //comparar valor con 00011111
-            num >>= 5;
+            int day = number & 31; //comparar valor con 00011111
+            number >>= 5;
             if (day == 0)
             {
                 MessageBox.Show("Dia cambiará a lunes");
                 day = 1;
             }
 
-            int month = num & 15; //comparar valor con 00001111
+            int month = number & 15; //comparar valor con 00001111
             if (month > 12)
             {
                 MessageBox.Show("Mes cambiará a Diciembre");
@@ -66,9 +66,9 @@ namespace Practica_Bits_y_Bytes
                 MessageBox.Show("Mes cambiará a enero");
                 month = 1;
             }
-            num >>= 4;
+            number >>= 4;
 
-            int year = num & 127; // comparar valor con 01111111
+            int year = number & 127; // comparar valor con 01111111
             year += 1900;
 
             DateTime date = new DateTime(year, month, day);

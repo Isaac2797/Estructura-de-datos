@@ -58,18 +58,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -98,12 +98,6 @@
     <None Include="Resources\Enproceso.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\SE.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SO.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\S.png" />
   </ItemGroup>
   <ItemGroup>
@@ -113,13 +107,22 @@
     <None Include="Resources\E.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\NE.png" />
+    <None Include="Resources\N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SE.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\NO.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\N.png" />
+    <None Include="Resources\NE.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
