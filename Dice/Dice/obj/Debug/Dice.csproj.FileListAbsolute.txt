@@ -1,0 +1,10 @@
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\bin\Debug\Dice.exe.config
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\bin\Debug\Dice.exe
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\bin\Debug\Dice.pdb
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.Form1.resources
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.exe
+c:\users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\isaac\documents\visual studio 2017\Projects\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
