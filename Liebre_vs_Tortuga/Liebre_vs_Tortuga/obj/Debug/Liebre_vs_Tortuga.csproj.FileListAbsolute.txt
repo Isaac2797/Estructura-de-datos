@@ -1,0 +1,10 @@
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\bin\Debug\Liebre_vs_Tortuga.exe.config
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\bin\Debug\Liebre_vs_Tortuga.exe
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\bin\Debug\Liebre_vs_Tortuga.pdb
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.Form1.resources
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.Properties.Resources.resources
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.csproj.GenerateResource.Cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.exe
+C:\Users\isaac\Documents\Visual Studio 2017\Projects\Liebre_vs_Tortuga\Liebre_vs_Tortuga\obj\Debug\Liebre_vs_Tortuga.pdb
