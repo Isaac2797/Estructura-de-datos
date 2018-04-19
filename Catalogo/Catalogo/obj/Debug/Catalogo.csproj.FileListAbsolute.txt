@@ -1,0 +1,20 @@
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+c:\users\isaac\documents\visual studio 2017\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Isaac\Desktop\Projects\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
