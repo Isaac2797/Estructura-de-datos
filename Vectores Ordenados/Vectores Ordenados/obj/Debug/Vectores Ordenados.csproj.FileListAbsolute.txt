@@ -1,0 +1,10 @@
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\bin\Debug\Vectores Ordenados.exe.config
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\bin\Debug\Vectores Ordenados.exe
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\bin\Debug\Vectores Ordenados.pdb
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores Ordenados.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores_Ordenados.Properties.Resources.resources
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores Ordenados.csproj.GenerateResource.cache
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores Ordenados.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores Ordenados.exe
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores Ordenados.pdb
+C:\Users\Isaac\Desktop\Projects\Vectores Ordenados\Vectores Ordenados\obj\Debug\Vectores_Ordenados.Form1.resources
