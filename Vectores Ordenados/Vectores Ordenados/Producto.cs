@@ -9,13 +9,13 @@ namespace Vectores_Ordenados
     class Producto
     {
         private string _nombre;
-        private string _codigo;
-        public string Codigo { get { return _codigo; } }
+        private int _codigo;
+        public int Codigo { get { return _codigo; } }
         private int _precio;
         private string _descripcion;
         private string _marca;
 
-        public Producto(string nombre, string codigo, int precio, string descripcion, string marca)
+        public Producto(string nombre, int codigo, int precio, string descripcion, string marca)
         {
             _nombre = nombre;
             _codigo = codigo;
@@ -26,7 +26,7 @@ namespace Vectores_Ordenados
 
         public override string ToString()
         {
-            return _nombre + "___" + _codigo + "___" + _precio.ToString() + "___" + _descripcion + "___" + _marca + "\r\n";
+            return _nombre + "___" + _codigo.ToString() + "___" + _precio.ToString() + "___" + _descripcion + "___" + _marca + "\r\n";
         }
     }
 }

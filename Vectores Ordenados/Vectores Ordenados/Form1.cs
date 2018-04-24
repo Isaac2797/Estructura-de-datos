@@ -23,7 +23,7 @@ namespace Vectores_Ordenados
         {
             if (limit < 15)
             {
-                producto = new Producto(txtName.Text, txtCodigo.Text, Convert.ToInt32(txtPrice.Text), txtDescripcion.Text, txtMarca.Text);
+                producto = new Producto(txtName.Text, Convert.ToInt32(txtCodigo.Text), Convert.ToInt32(txtPrice.Text), txtDescripcion.Text, txtMarca.Text);
                 cat.Agregar(producto);
                 limit++;
             }
@@ -45,13 +45,13 @@ namespace Vectores_Ordenados
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            txtLista.Text = cat.Buscar(txtCodigo.Text).ToString();
+            txtLista.Text = cat.Buscar(Convert.ToInt32(txtCodigo.Text)).ToString();
             Clear();
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            cat.Eliminar(txtCodigo.Text);
+            cat.Eliminar(Convert.ToInt32(txtCodigo.Text));
             limit--;
             Clear();
         }
