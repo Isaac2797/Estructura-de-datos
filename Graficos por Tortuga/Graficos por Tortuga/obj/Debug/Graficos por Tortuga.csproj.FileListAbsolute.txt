@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\bin\Debug\Graficos por Tortuga.exe.config
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\bin\Debug\Graficos por Tortuga.exe
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\bin\Debug\Graficos por Tortuga.pdb
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos por Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos_por_Tortuga.Form1.resources
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos_por_Tortuga.Properties.Resources.resources
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos por Tortuga.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos por Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos por Tortuga.exe
+C:\Users\Isaac\source\repos\Graficos por Tortuga\Graficos por Tortuga\obj\Debug\Graficos por Tortuga.pdb
