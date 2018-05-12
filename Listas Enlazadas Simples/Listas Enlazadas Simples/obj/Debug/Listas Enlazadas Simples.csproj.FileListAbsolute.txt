@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\bin\Debug\Listas Enlazadas Simples.exe.config
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\bin\Debug\Listas Enlazadas Simples.exe
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\bin\Debug\Listas Enlazadas Simples.pdb
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas Enlazadas Simples.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas_Enlazadas_Simples.Form1.resources
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas_Enlazadas_Simples.Properties.Resources.resources
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas Enlazadas Simples.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas Enlazadas Simples.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas Enlazadas Simples.exe
+C:\Users\Isaac\source\repos\Listas Enlazadas Simples\Listas Enlazadas Simples\obj\Debug\Listas Enlazadas Simples.pdb
