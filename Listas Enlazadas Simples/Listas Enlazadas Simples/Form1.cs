@@ -21,7 +21,7 @@ namespace Listas_Enlazadas_Simples
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Producto producto;
-            producto = new Producto(txtName.Text, txtCodigo.Text, Convert.ToInt32(txtPrice.Text), txtDescripcion.Text, txtMarca.Text);
+            producto = new Producto(txtName.Text, Convert.ToInt32(txtCodigo.Text), Convert.ToInt32(txtPrice.Text), txtDescripcion.Text, txtMarca.Text);
             estruc.agregar(producto);
             Clear();
         }
@@ -53,6 +53,11 @@ namespace Listas_Enlazadas_Simples
         private void btnEliminarPrimero_Click(object sender, EventArgs e)
         {
             estruc.eliminarPrimero();
+        }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            txtLista.Text = estruc.buscar(Convert.ToInt32(txtSearch.Text)).ToString();
         }
     }
 }

@@ -10,8 +10,8 @@ namespace Listas_Enlazadas_Simples
     {
 
         private string _nombre;
-        private string _codigo;
-        public string Codigo { get { return _codigo; } }
+        private int _codigo;
+        public int Codigo { get { return _codigo; } }
         private int _precio;
         private string _descripcion;
         private string _marca;
@@ -23,7 +23,7 @@ namespace Listas_Enlazadas_Simples
             set { _siquiente = value; }
         }
 
-        public Producto(string nombre, string codigo, int precio, string descripcion, string marca)
+        public Producto(string nombre, int codigo, int precio, string descripcion, string marca)
         {
             _nombre = nombre;
             _codigo = codigo;

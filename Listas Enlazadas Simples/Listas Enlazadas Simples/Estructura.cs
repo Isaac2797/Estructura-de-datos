@@ -28,23 +28,30 @@ namespace Listas_Enlazadas_Simples
                 quien.Siguente = nuevo;
         }
 
-        public Producto buscar(int dato)
+        public Producto buscar(int codigo)
         {
+            Producto t = inicio;
+            while (t != null)
+            {
+                if (t.Codigo == codigo)
+                    return t;
+                t = t.Siguente;
+            }
             return null;
         }
 
         public void Inverso()
         {
-            Producto t = inicio, b = null, n;
+            Producto t = inicio, backup = null, helper;
 
             while (t != null)
             {
-                n = t.Siguente;
-                t.Siguente = b;
-                b = t;
-                t = n;
+                helper = t.Siguente;
+                t.Siguente = backup;
+                backup = t;
+                t = helper;
             }
-            inicio = b;
+            inicio = backup;
         }
         public string listarInverso()
         {
