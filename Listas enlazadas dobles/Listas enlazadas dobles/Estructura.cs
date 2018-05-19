@@ -62,12 +62,21 @@ namespace Listas_enlazadas_dobles
 
         public void eliminar(int codigo)
         {
-            Producto t = inicio, p = null;
+            Producto t = inicio, p = null, next = null;
 
             if (inicio.Codigo == codigo)
             {
-                inicio = inicio.Siguente;
-                inicio.Anterior = null;
+                if(inicio.Codigo == ultimo.Codigo)
+                {
+                    inicio = null;
+                    ultimo = null;
+                }
+                else
+                {
+                    next = inicio.Siguente;
+                    next.Anterior = null;
+                    inicio = next;
+                }
             }
 
             else if (ultimo.Codigo == codigo)
