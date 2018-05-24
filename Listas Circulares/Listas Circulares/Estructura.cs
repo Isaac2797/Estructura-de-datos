@@ -57,6 +57,7 @@ namespace Listas_Circulares
             if (inicio == ultimo)
             {
                 r = ultimo;
+                r.Anterior = r.Siguente = null;
                 inicio = null;
                 ultimo = null;
             }
@@ -66,6 +67,7 @@ namespace Listas_Circulares
                 p.Siguente = null;
                 ultimo.Anterior = null;
                 r = ultimo;
+                r.Anterior = r.Siguente = null;
                 ultimo = p;
                 ultimo.Siguente = inicio;
             }
@@ -78,12 +80,14 @@ namespace Listas_Circulares
             if (ultimo == inicio)
             {
                 r = inicio;
+                r.Anterior = r.Siguente = null;
                 inicio = null;
                 ultimo = null;
             }
             else
             {
                 r = inicio;
+                r.Anterior = r.Siguente = null;
                 inicio = inicio.Siguente;
                 ultimo.Siguente = inicio;
                 inicio.Anterior = ultimo;
@@ -158,6 +162,7 @@ namespace Listas_Circulares
             if (inicio.NombreBase == ultimo.NombreBase)
             {
                 r = inicio;
+                r.Anterior = r.Siguente = null;
                 inicio = null;
                 ultimo = null;
             }
@@ -165,6 +170,7 @@ namespace Listas_Circulares
             else if (inicio.NombreBase == nombre)
             {
                 r = inicio;
+                r.Anterior = r.Siguente = null;
                 inicio.Anterior.Siguente = inicio.Siguente;
                 inicio.Siguente.Anterior = ultimo;
                 inicio = inicio.Siguente;
@@ -172,6 +178,7 @@ namespace Listas_Circulares
             else if (ultimo.NombreBase == nombre)
             {
                 r = ultimo;
+                r.Anterior = r.Siguente = null;
                 ultimo.Anterior.Siguente = inicio;
                 ultimo.Siguente.Anterior = ultimo.Anterior;
                 ultimo = ultimo.Anterior;
@@ -183,6 +190,7 @@ namespace Listas_Circulares
                     if (t.NombreBase == nombre)
                     {
                         r = t;
+                        r.Anterior = r.Siguente = null;
                         t.Anterior.Siguente = t.Siguente;
                         t.Siguente.Anterior = t.Anterior;
                     }
