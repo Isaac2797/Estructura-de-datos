@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\bin\Debug\Listas Circulares.exe.config
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\bin\Debug\Listas Circulares.exe
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\bin\Debug\Listas Circulares.pdb
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas Circulares.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas_Circulares.Form1.resources
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas_Circulares.Properties.Resources.resources
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas Circulares.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas Circulares.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas Circulares.exe
+C:\Users\Isaac\source\repos\Listas Circulares\Listas Circulares\obj\Debug\Listas Circulares.pdb
