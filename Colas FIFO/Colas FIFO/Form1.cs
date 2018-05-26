@@ -28,7 +28,7 @@ namespace Colas_FIFO
                 int chance = rt.Next(100);
                 if(chance <= 35)
                 {
-                    proceso = new Proceso(rt.Next(4,14));
+                    proceso = new Proceso(rt.Next(4,15));
                     q.Put(proceso);
                     ins++;
                 }
