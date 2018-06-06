@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\bin\Debug\Procesos Circulares.exe.config
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\bin\Debug\Procesos Circulares.exe
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\bin\Debug\Procesos Circulares.pdb
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos Circulares.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos_Circulares.Form1.resources
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos_Circulares.Properties.Resources.resources
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos Circulares.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos Circulares.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos Circulares.exe
+C:\Users\Isaac\source\repos\Procesos Circulares\Procesos Circulares\obj\Debug\Procesos Circulares.pdb
