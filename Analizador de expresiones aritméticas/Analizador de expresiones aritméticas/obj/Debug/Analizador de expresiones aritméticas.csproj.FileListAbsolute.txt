@@ -1,0 +1,30 @@
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe.config
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.pdb
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Form1.resources
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Properties.Resources.resources
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\Isaac\source\repos\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.pdb
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe.config
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.pdb
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csprojResolveAssemblyReference.cache
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Form1.resources
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Properties.Resources.resources
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.GenerateResource.Cache
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\isaac\Downloads\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.pdb
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe.config
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\bin\Debug\Analizador de expresiones aritméticas.pdb
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Form1.resources
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador_de_expresiones_aritméticas.Properties.Resources.resources
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.GenerateResource.cache
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.exe
+C:\Users\Isaac\Documents\Analizador de expresiones aritméticas\Analizador de expresiones aritméticas\obj\Debug\Analizador de expresiones aritméticas.pdb
